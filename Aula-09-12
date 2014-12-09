@@ -1,0 +1,13 @@
+Comandos do GIT
+
+git clone url
+git log - ver históricos
+git add - selecionar os arquivos a serem comitados ou git add . (para tudo que foi alterado)
+git commit -m "mensagem de commit"
+git commit -am "adiciona tudo e já coloca a mensagem de commit"
+git status -s = mostra o que foi feito local
+
+
+bitbucket - host para repositório privado para git
+github - host repositório publico e privado
+
