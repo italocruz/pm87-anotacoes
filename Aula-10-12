@@ -1,0 +1,10 @@
+REVIEW:
+git add . - mandar arquivo alterado
+git commit -am "removendo teste duplicadpo" - comitar e mandar comentário
+git push - salvar no servidor
+
+
+github for windows
+eclipse --> egit
+
+tdd.caelum.com.br

@@ -11,13 +11,3 @@ git status -s = mostra o que foi feito local
 bitbucket - host para repositório privado para git
 github - host repositório publico e privado
 
-https://www.atlassian.com/git/tutorials/comparing-workflows/
-http://pcottle.github.io/learnGitBranching/
-
-Cap 3
-Configurar projeto da caelum
-Criar banco mysql
-
-cap 4 bug
-1 - escrever um teste
-2 - corrige o bug
