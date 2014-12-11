@@ -1,0 +1,9 @@
+java -jar jenkins.war --httpPort=8081
+
+pluggins para jenkins
+Green balls
+chuck noris
+radiator view
+email-ext
+monitoring plugin
+sectioned view
