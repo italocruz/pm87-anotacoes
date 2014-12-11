@@ -1,9 +1,21 @@
 java -jar jenkins.war --httpPort=8081
 
+*** inúteis
 pluggins para jenkins
 Green balls
 chuck noris
+*** úteis:
 radiator view
 email-ext
 monitoring plugin
 sectioned view
+
+
+Padrão de projeto para testes:
+page object
+test data builder
+
+
+http://www.alura.com.br/ = loja de cursos online
+http://www.casadocodigo.com.br/ = loja de livros
+
